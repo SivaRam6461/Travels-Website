@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Travels-Website
+Travel Web Application using React.js after following a YouTube tutorial. This project helped me gain hands-on practice with:  1.React Router for smooth multi-page navigation 2. Component-based development (Home, About, Services, Contact pages) 3. Modern UI styling with Google Fonts and CSS 4.Testing setup &amp; performance monitoring for scalability
+>>>>>>> 0a4d974db3631fd7e2d909fc4b3fdaa92327f0dd
